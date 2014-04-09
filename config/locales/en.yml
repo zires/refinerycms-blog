@@ -38,6 +38,7 @@ en:
             toggle_advanced_options: Click to access meta tag settings and menu options
             published_at: Publish Date
             custom_url: Custom Url
+            sub_title: Sub title
             custom_url_help: Generate the url for the blog post from this text instead of the title.
             source_url: Source Url
             source_url_help: Stores the url for the source of the post material.

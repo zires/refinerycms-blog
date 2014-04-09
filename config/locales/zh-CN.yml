@@ -37,6 +37,17 @@ zh-CN:
           form:
             toggle_advanced_options: 点击进入标签详解设置和菜单选项
             published_at: 发布日期
+            custom_url: 自定义链接
+            sub_title: 副标题
+            custom_url_help: Generate the url for the blog post from this text instead of the title.
+            source_url: Source Url
+            source_url_help: Stores the url for the source of the post material.
+            source_url_title: Source Url Title
+            source_url_title_help: Title for the source url for the post.
+            author: 作者
+            author_help: Set which user this post will show as the author.
+            copy_body: Copy Post Body to Teaser
+            copy_body_help: Copies the post body to the teaser.  Leave teaser blank to let Refinery automatically make the teaser.
           index:
             no_items_yet: '目前尚未发博。 点击 "%{create}" 添加您的第一篇博文。'
           uncategorized:
